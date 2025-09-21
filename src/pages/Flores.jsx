@@ -7,7 +7,8 @@ const Flores = () => {
       {/* Título */}
       <h1 className="titulo">
         Las flores amarillas simbolizan la felicidad. <br />
-        Tú eres la mía❤️
+        Tú eres la mía❤️<br />
+        Te Quiero Daya
       </h1>
 
       {/* Fondo nocturno */}
